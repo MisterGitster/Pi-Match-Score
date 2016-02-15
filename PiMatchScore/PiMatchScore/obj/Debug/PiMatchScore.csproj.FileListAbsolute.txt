@@ -1,0 +1,6 @@
+c:\users\jbutler\documents\visual studio 2015\Projects\PiMatchScore\PiMatchScore\bin\Debug\PiMatchScore.exe.config
+c:\users\jbutler\documents\visual studio 2015\Projects\PiMatchScore\PiMatchScore\bin\Debug\PiMatchScore.exe
+c:\users\jbutler\documents\visual studio 2015\Projects\PiMatchScore\PiMatchScore\bin\Debug\PiMatchScore.pdb
+c:\users\jbutler\documents\visual studio 2015\Projects\PiMatchScore\PiMatchScore\obj\Debug\PiMatchScore.csprojResolveAssemblyReference.cache
+c:\users\jbutler\documents\visual studio 2015\Projects\PiMatchScore\PiMatchScore\obj\Debug\PiMatchScore.exe
+c:\users\jbutler\documents\visual studio 2015\Projects\PiMatchScore\PiMatchScore\obj\Debug\PiMatchScore.pdb
